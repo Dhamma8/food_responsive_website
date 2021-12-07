@@ -1,0 +1,37 @@
+body{
+    /* background-color: red; */
+    
+}
+/* Navigation */
+#navbar{
+   flex-direction: column;
+}
+
+/* Home section */
+#home{
+    height: 543px;
+}
+#home p{
+    width: 330px;
+    font-size: 1rem;
+}
+#home::before{
+    height: 61%;
+}
+#home h1{
+    font: size 1.8rem; ;
+}
+
+/* services */
+#container {
+    flex-direction: column;
+}
+
+
+/* client section */
+
+
+/* contact us section */
+
+
+/* footer section */
